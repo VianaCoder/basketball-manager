@@ -84,3 +84,6 @@ This API was developed to manage information about basketball teams, players, an
 
 ##### - Run the populate script:
 ``` python \scripts\populate_database.py ```
+
+### Python Version 
+Python 3.10.12
